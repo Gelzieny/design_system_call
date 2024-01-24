@@ -1,11 +1,11 @@
 Components
 
-- Text
-- Heading
-- Box
-- Button
-- TextArea
-- TextInput
-- CheckBox
-- Avatar  
-- MultiStep
+- [ ] Text
+- [ ] Heading
+- [ ] Box
+- [ ] Button
+- [ ] TextArea
+- [ ] TextInput
+- [ ] CheckBox
+- [ ] Avatar  
+- [ ] MultiStep
